@@ -1,0 +1,6 @@
+MD5 (AppleDiagnostics.chunklist) = 8d703e737f43a037aee78a5233d5be62
+MD5 (AppleDiagnostics.dmg) = 9bceff52208366b5ca733f1d4c66671b
+MD5 (BaseSystem.chunklist) = 7ab93e37264e1e4e4302527e572d6f64
+MD5 (BaseSystem.dmg) = 4057b8623b13f60654bb344a73b43358
+MD5 (InstallESD.dmg) = 2e49889433d173a6aa22eb9318e514aa
+MD5 (InstallInfo.plist) = 25edd124957cc27661662773b9a8c63c
