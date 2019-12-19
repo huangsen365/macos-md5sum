@@ -6,3 +6,21 @@ total 10164624
  948192 BaseSystem.dmg
 9210856 InstallESD.dmg
       8 InstallInfo.plist
+
+ls -ltr
+total 10164624
+-rw-r--r--  1         1386 May 18  2018 InstallInfo.plist
+-rw-r--r--  1    485329910 Jul  5  2018 BaseSystem.dmg
+-rw-r--r--  1         1984 Jul  5  2018 BaseSystem.chunklist
+-rw-r--r--  1      2839919 Jul  5  2018 AppleDiagnostics.dmg
+-rw-r--r--  1          328 Jul  5  2018 AppleDiagnostics.chunklist
+-rw-r--r--  1   4715794271 Apr 13  2019 InstallESD.dmg
+
+ls -ltrh
+total 10164624
+-rw-r--r--  1    1.4K May 18  2018 InstallInfo.plist
+-rw-r--r--  1    463M Jul  5  2018 BaseSystem.dmg
+-rw-r--r--  1    1.9K Jul  5  2018 BaseSystem.chunklist
+-rw-r--r--  1    2.7M Jul  5  2018 AppleDiagnostics.dmg
+-rw-r--r--  1    328B Jul  5  2018 AppleDiagnostics.chunklist
+-rw-r--r--  1    4.4G Apr 13  2019 InstallESD.dmg
