@@ -1,0 +1,7 @@
+ shasum *
+3cb30316f822c2dcb39f7216aca9099b56496b8e  AppleDiagnostics.chunklist
+eeeeb0a0df7d7cd914fb4b5b34efd5a1298870f4  AppleDiagnostics.dmg
+73145c953bb69edf73886eb5336cd7737f9c6899  BaseSystem.chunklist
+a97aeffdbeda4d68e1053f69b55d9d56df4259d6  BaseSystem.dmg
+216b38acfb234b4e29c2dba41fd76814550b59e2  InstallESD.dmg
+428f478979ae1da8858fa2521bc28d5e4c1c49c6  InstallInfo.plist
