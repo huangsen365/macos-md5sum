@@ -1,0 +1,8 @@
+ls -1s
+total 10164624
+      8 AppleDiagnostics.chunklist
+   5552 AppleDiagnostics.dmg
+      8 BaseSystem.chunklist
+ 948192 BaseSystem.dmg
+9210856 InstallESD.dmg
+      8 InstallInfo.plist
